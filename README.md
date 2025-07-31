@@ -35,13 +35,13 @@ Me especializo en crear experiencias personalizadas en **Moodle** y desarrollo w
 ### 📬 ¿Quieres contactarme?
 
 <p>
-  <a href="mailto:elevecr.soporte@gmail.com">
-    <img src="https://img.shields.io/badge/Email-elevecr.soporte@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:admin@elevecr.com">
+    <img src="https://img.shields.io/badge/admin@elevecr.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://elevecr.com" target="_blank">
     <img src="https://img.shields.io/badge/Web-EleveCR.com-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/luiscastillo-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/luis-hernando-castillo-torres-906a84221/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Luis_Castillo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
