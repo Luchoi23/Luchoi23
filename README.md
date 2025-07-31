@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 
 <p>
-  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/java-4.svg" alt="Java"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/javascript.svg" alt="JavaScript"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/python-5.svg" alt="Python"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/c-2975.svg" alt="C++"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/html-5.svg" alt="HTML5"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/css-3.svg" alt="CSS3"></code>
-  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Moodle-logo.svg" alt="Moodle"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML5"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS3"></code>
+  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Moodle-logo.svg/64px-Moodle-logo.svg.png" alt="Moodle"></code>
 </p>
 
 
