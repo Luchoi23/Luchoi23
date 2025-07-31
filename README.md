@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 <p>
+  <code><img height="25" src="https://raw.githubusercontent.com/moodle/moodle/master/pix/moodlelogo.png" alt="Moodle"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"></code>
@@ -24,7 +25,7 @@ Here are some ideas to get you started:
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML5"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS3"></code>
-  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Moodle-logo.svg/64px-Moodle-logo.svg.png" alt="Moodle"></code>
 </p>
+
 
 
