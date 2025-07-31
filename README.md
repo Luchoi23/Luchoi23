@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <p>
-  <code><img height="25" src="https://raw.githubusercontent.com/Luchoi23/Luchoi23/main/pngwing.com.png" alt="Moodle"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/Luchoi23/Luchoi23/main/moodle.png" alt="Moodle"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"></code>
