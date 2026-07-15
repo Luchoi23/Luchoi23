@@ -55,9 +55,26 @@
 
 ---
 
+---
+
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luchoi23&show_icons=true&theme=tokyonight&hide=prs" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luchoi23&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img 
+    src="https://streak-stats.demolab.com?user=Luchoi23&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak"
+    width="70%"
+  />
 </p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Luchoi23&theme=tokyo-night&hide_border=true&area=true" 
+    alt="GitHub Activity Graph"
+    width="100%"
+  />
+</p>
+
+---
+
+
